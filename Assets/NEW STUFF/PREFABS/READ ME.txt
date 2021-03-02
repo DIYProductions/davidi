@@ -1,0 +1,11 @@
+~~~~~~~~~~~~ READ ME ~~~~~~~~~~~~
+
+Apart from the Apple and the Jacket, everything else was made by me (excluding textures).
+
+The clock has got to be placed as a child of a canvas in order to work, and it has a script.
+
+The door as an animator with animations, and a script.
+
+All objects come with colliders.
+
+
